@@ -1,0 +1,113 @@
+ .titles{
+   color: honeydew;
+   text-align: center
+ }
+ .app{
+  background:linear-gradient(90deg, #cfd9df 0%,#e2ebf0 100% );
+ }
+ .hover-effect1 { min-height: 200px;  text-align: center; }
+.hover-effect1 ul { padding-top: 50px; }
+.hover-effect1 ul li { display: inline-block; }
+.hover-effect1 ul li a { font-size: 40px; border-radius: 40px; color: #fff; margin: 0px 10px; line-height: 100px; display: inline-block; width: 100px; height: 100px; background:#333333; -webkit-transition: all .6s ease; -moz-transition: all .6s ease; -ms-transition: all .6s ease; -o-transition: all .6s ease; transition: all .6s ease; }
+.hover-effect1 ul li:hover a { border-radius: 50%; background: #1da1f3; -moz-transform: rotate(360deg); -webkit-transform: rotate(360deg); -o-transform: rotate(360deg); -ms-transform: rotate(360deg); transform: rotate(360deg); }
+ .haithem{
+  height:'40px ';
+  width:'40px';
+  border-radius:'20px';
+  margin-left:'560px'
+}
+ @import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&display=swap');
+
+.brand-logo,h1{font-family: 'Grand Hotel', cursive;}
+
+
+	.progress {
+		min-height: 36px;
+		overflow: hidden;
+		position: relative;}
+		span {
+			position: relative;
+			float:left;
+			color: #fff;
+			padding: 8px;
+		}
+			i {
+				width: inherit;
+				font-size: inherit;
+				position: relative;
+				top: 2px;
+				margin-left: 8px;
+			}
+		
+		.determinate {
+			width: 0;
+			transition: width 1s ease-in-out;
+			padding: 8px;
+			position: relative;
+			color: #fff;
+			text-align: right;
+			white-space: nowrap;
+		}
+	
+ 
+  @media screen and (max-width: 600px) {
+    .hover-effect1 ul li a { font-size: 30px; border-radius: 10px; color: #fff; margin: 0px 10px; line-height:50px; display: inline-block; width: 50px; height: 50px; background:#333333; -webkit-transition: all .6s ease; -moz-transition: all .6s ease; -ms-transition: all .6s ease; -o-transition: all .6s ease; transition: all .6s ease; }
+    .hover-effect1 ul li:hover a { border-radius: 50%; background: #1da1f3; -moz-transform: rotate(360deg); -webkit-transform: rotate(360deg); -o-transform: rotate(360deg); -ms-transform: rotate(360deg); transform: rotate(360deg); }
+     .haithem{
+      margin-left: 50px
+    }
+     .titles{
+     
+     text-align: center;
+    }
+    .car{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 100% !important;
+      margin: auto;
+    }
+    .carde{
+     display: flex;
+     justify-content: space-around;
+     width: 300px !important
+    }
+  }
+ 
+ 
+ 
+ .carde{
+  display: flex;
+  justify-content: space-around;
+  width: 30%;
+}
+ 
+ .whi{
+  display: flex;
+
+  text-decoration: none;
+  font-weight: bold;
+  cursor: pointer;
+  color:white
+}
+.bla {
+  display: flex;
+  font-weight: bold;;
+  text-decoration: none;
+  background-color: rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+  color :black
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
