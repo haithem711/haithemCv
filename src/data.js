@@ -143,12 +143,18 @@ skills :[
                 pourcentage:'React Native 30%',
                 ico:'30%'
             },
+            
             {   id:10,
+                title:'UML',
+                pourcentage:'UML 70%',
+                ico:'70%'
+            },
+            {   id:11,
                 title:'Francais',
                 pourcentage:'Francais 60%',
                 ico:'60%'
             },
-            {   id:11,
+            {   id:12,
                 title:'Anglais',
                 pourcentage:'Anglais 50%',
                 ico:'50%'

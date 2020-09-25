@@ -9,6 +9,12 @@ const About = () => {
             <Fade >  <h1 style={{ textAlign: 'center', color: 'white' }}>Haithem Hajri</h1></Fade>
             <Rotate bottom left>      <img className="haithem" style={{ height: '220px', width: '220px', borderRadius: '110px', marginLeft: 'auto', marginRight: 'auto', display: ' block' }} src="https://res.cloudinary.com/dw9j1appv/image/upload/v1600876058/mfbrjq8gx9sapj91hhsz.jpg"alt='haithem' /> </Rotate>
             <Zoom top> <h1 className='titles' >Développeur web Junior </h1> </Zoom>
+            <a style={{color:'white'}} href="/files/Haithem_Hajri.pdf" target="_blank" download>
+            <button style={{marginLeft:'auto',marginRight:'auto',display:'block'}} class="btn waves-effect waves-light" type="submit" name="action">
+           telecharger mon cv 
+    <i class="material-icons right">send</i>
+  </button></a>
+           
             <h2 style={{ textAlign: 'center' }}><a style={{ color: 'white', fontWeight: 'bold' }} href="tel: +216 92939457"><img style={{ width: '35px' }} src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Circle-icons-phone.svg/1024px-Circle-icons-phone.svg.png' alt='phone' /> 92939457 </a> </h2>
             <div class="hover-effect1">
                 <ul>  <Zoom top>

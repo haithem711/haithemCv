@@ -1,0 +1,36 @@
+{
+    "developpeur":{
+        "1":"Développeur web junior"
+    },
+    "telecharger":{
+        "2":"Télécharger CV"
+    }
+    ,
+    "education":{
+        "3":"Diplômes et Formations"
+    },
+    "formation":{
+        "4":"Développeur web FullStack JS"
+    },
+    "licence":{
+        "5":"Licence Appliquée en Informatique de Gestion"
+    }
+    ,"institut":{
+        "6":"Institut Supérieur de Gestion Sousse 2019"
+    }
+    ,"projet":{
+        "7":"Mes Projets"
+    }
+    ,"competence":{
+        "8":"Mes Compétences"
+    }
+    ,"about":{
+        "9":"À propos"
+    }
+    ,"diplome":{
+        "10":"Diplômes et Formations"
+    }
+   
+   
+   
+}

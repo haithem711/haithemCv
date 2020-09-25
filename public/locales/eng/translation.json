@@ -1,0 +1,33 @@
+{
+    "developpeur":{
+        "1":"MERN stack js web developer"
+    },
+    "telecharger":{
+        "2":"Download"
+    },
+    
+    "education":{
+        "3":"Education"
+    },
+    "formation":{
+        "4":" MERN Stack Web Developer "
+    },
+    "licence":{
+        "5":"license in business informatics"
+    } ,
+    "institut":{
+        "6":"higher institute of management of Sousse"
+    }
+    ,"projet":{
+        "7":"My Projects"
+    }
+    ,"competence":{
+        "8":"My Skills"
+    }
+    ,"about":{
+        "9":"About me"
+    }
+    ,"diplome":{
+        "10":"Formation"
+    }
+}
